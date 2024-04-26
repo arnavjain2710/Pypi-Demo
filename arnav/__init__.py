@@ -1,2 +1,2 @@
 from arnav.slang import slang
-from arnav.mathutils import addition
+from arnav.mathutils import mathutils
