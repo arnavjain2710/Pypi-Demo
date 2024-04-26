@@ -1,2 +1,3 @@
-def slang():
-    print("Hello friend!")
+class slang:
+    def slang():
+        print("Jasmer chutiya hai!")
